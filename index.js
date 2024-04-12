@@ -10,7 +10,7 @@ console.log("backend! / server");
 const stub = ClarifaiStub.grpc();
 
 // Your PAT (Personal Access Token) can be found in the Account's Security section
-const PAT = '26621e9f23494347b34d2e2a2019b9aa';
+const PAT = process.env['PAT'];
 // Specify the correct user_id/app_id pairings
 // Since you're making inferences outside your app's scope
 const USER_ID = 'clarifai';
