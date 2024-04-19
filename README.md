@@ -7,4 +7,5 @@ Visit [https://i-want-to-know.replit.app/](https://i-want-to-know.replit.app/)
 ## Inspiration/Process
 
 Small iteration on the [previous week](https://github.com/s-ahal/DW_W3_What-are-You). This already used a custom API, but I made the object list persistent in the backend.
-I used Replit as my development environment again. The website runs off a Node server using Express. The list of objects returned is now a global variable that is updated every time a user makes a request to the server.
+I used Replit as my development environment again. The website runs off a Node server using Express. The list of objects returned is now a global variable that is updated every time a user makes a request to the server. 
+Updates were also made to the styling on the frontend. It's a WIP that I'm hoping to connect to a streaming body camera I made.
