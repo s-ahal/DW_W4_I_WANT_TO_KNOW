@@ -2,7 +2,7 @@
 
 ## How to run the application:
 
-Visit [https://i-want-to-know.replit.app/]((https://i-want-to-know.replit.app/)
+Visit [https://i-want-to-know.replit.app/](https://i-want-to-know.replit.app/)
 
 ## Inspiration/Process
 
